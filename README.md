@@ -4,4 +4,4 @@ Band pass filter for detecting image desired details
     Digital Image Processing, 3rd edition
     
 # You can use highpass , Lowpass and bandpass filter
-![image](https://user-images.githubusercontent.com/87255154/125190264-7f3f1100-e251-11eb-9053-757af288327c.png)
+![image](https://user-images.githubusercontent.com/87255154/125190284-9251e100-e251-11eb-9225-1438818fc47f.png)
